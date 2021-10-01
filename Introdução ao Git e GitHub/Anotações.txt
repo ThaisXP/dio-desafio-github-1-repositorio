@@ -1,1 +1,7 @@
 Link para download do Git: https://git-scm.com/downloads
+
+Sobre markdown: https://www.markdownguide.org/
+
+Realizado o curso de Introdução ao Git e GitHub em: 02/09/2021
+
+Realizado o curso Criando seu Primeiro Repositório no GitHub em: 01/10/2021
